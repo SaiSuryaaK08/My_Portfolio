@@ -78539,7 +78539,7 @@ return A.eE(B.M,s.d,B.l,q,m,m,m,m,m,new A.ay(o,l,o,l),m,m,p)}else{l=r*0.2
 return A.eE(B.M,s.e,B.l,q,m,m,m,m,m,new A.ay(o,l,o,l),m,m,p)}}},
 $S:457}
 A.Jf.prototype={
-J(a){return new A.xm(B.GE,"Flutter Demo",A.amR(null,B.iR,null),!1,null)}}
+J(a){return new A.xm(B.GE,"Sai Suryaa Portfolio",A.amR(null,B.iR,null),!1,null)}}
 A.uy.prototype={
 af(){return new A.MY(new A.pD(),B.j)}}
 A.MY.prototype={
@@ -78559,7 +78559,7 @@ return new A.lI(r,A.fN(A.a([A.jR(this.D1(n,l,p,k),1),B.j1],s),B.eP,B.r_,B.a7),q,
 D1(a,b,c,d){var s,r=null,q={}
 q.a=c
 s=t.p
-return A.eD(A.a([A.HN(A.cI("Konichiwa It's me!",r,r,r,A.lc().$3$color$fontSize$fontWeight(B.i,24,B.aF),r,r),B.aM),A.aY(r,15,r),A.HO(A.cI("Sai Suryaa",r,r,r,A.n4().$4$color$fontSize$fontWeight$letterSpacing(B.i,36,B.A,2),r,r),B.aM),A.aY(r,15,r),A.alQ(A.fN(A.a([A.cI("And I'm a ",r,r,r,A.lc().$3$color$fontSize$fontWeight(B.i,24,B.aF),r,r),new A.uK(A.a([A.amY("App Developer",A.lc().$3$color$fontSize$fontWeight(B.fs,24,B.aF)),A.amY("Web Developer",A.lc().$3$color$fontSize$fontWeight(B.fs,24,B.aF)),A.amY("Game Developer",A.lc().$3$color$fontSize$fontWeight(B.fs,24,B.aF))],t.u6),5,r)],s),B.T,B.W,B.a7),B.aM),A.aY(r,15,r),A.HN(A.cI("'Experienced Developer with expertise in Flutter, Full Stack Web Development.\nProficient in building cross-platform mobile apps, crafting immersive web experiences. Passionate about continuous learning, staying ahead of industry trends'",r,r,r,A.c9(r,r,B.i,r,r,r,r,r,r,r,r,16,r,r,B.A,r,r,!0,r,1.7,r,r,r,r,r,r),r,r),B.aM),A.aY(r,15,r),A.alR(!0,A.aY(A.aqh(new A.adF(q,this,d,b),5,B.af,new A.adG(),!0),48,r),r,B.p,B.aM,100,!1),A.aY(r,15,r),A.alR(!0,this.d.D2("Download CV",new A.adH(this)),r,B.p,B.aM,100,!1)],s),B.eO,B.W,B.bq)},
+return A.eD(A.a([A.HN(A.cI("Konichiwa It's me!",r,r,r,A.lc().$3$color$fontSize$fontWeight(B.i,24,B.aF),r,r),B.aM),A.aY(r,15,r),A.HO(A.cI("Sai Suryaa",r,r,r,A.n4().$4$color$fontSize$fontWeight$letterSpacing(B.i,36,B.A,2),r,r),B.aM),A.aY(r,15,r),A.alQ(A.fN(A.a([A.cI("And I'm a ",r,r,r,A.lc().$3$color$fontSize$fontWeight(B.i,24,B.aF),r,r),new A.uK(A.a([A.amY("App Developer",A.lc().$3$color$fontSize$fontWeight(B.fs,24,B.aF)),A.amY("Web Developer",A.lc().$3$color$fontSize$fontWeight(B.fs,24,B.aF)),A.amY("Game Developer",A.lc().$3$color$fontSize$fontWeight(B.fs,24,B.aF))],t.u6),5,r)],s),B.T,B.W,B.a7),B.aM),A.aY(r,15,r),A.HN(A.cI("'Experienced Developer with expertise in Flutter, Full Stack Web Development.\nProficient in building cross-platform mobile apps, crafting immersive web experiences. Passionate about continuous learning, staying ahead of industry trends'",r,r,r,A.c9(r,r,B.i,r,r,r,r,r,r,r,r,16,r,r,B.A,r,r,!0,r,1.7,r,r,r,r,r,r),r,r),B.aM),A.aY(r,15,r),A.alR(!0,A.aY(A.aqh(new A.adF(q,this,d,b),5,B.af,new A.adG(),!0),48,r),r,B.p,B.aM,100,!1),A.aY(r,15,r),A.alR(!0,this.d.D2("Show CV",new A.adH(this)),r,B.p,B.aM,100,!1)],s),B.eO,B.W,B.bq)},
 YO(a,b){this.aa(new A.adA(A.kL(a[b],0,null)))}}
 A.adF.prototype={
 $2(a,b){var s=this,r=null,q=s.b,p=s.a,o=A.dG(550),n=s.d[b],m=p.a===b&&!0,l=A.alm(B.df,2)
